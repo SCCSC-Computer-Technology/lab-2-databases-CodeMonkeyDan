@@ -1,0 +1,12 @@
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\bin\Debug\CityPopulationDB.mdf
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\bin\Debug\CityPopulationDB_log.ldf
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\bin\Debug\DSchiefer-Lab-1-Population-Database.exe.config
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\bin\Debug\DSchiefer-Lab-1-Population-Database.exe
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\bin\Debug\DSchiefer-Lab-1-Population-Database.pdb
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer-Lab-1-Population-Database.csproj.AssemblyReference.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer_Lab_1_Population_Database.Form1.resources
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer_Lab_1_Population_Database.Properties.Resources.resources
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer-Lab-1-Population-Database.csproj.GenerateResource.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer-Lab-1-Population-Database.csproj.CoreCompileInputs.cache
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer-Lab-1-Population-Database.exe
+C:\Users\dmsch\Documents\SCC\CPT-206-A80S-2025SP - Advanced Event Driven Programming\DSchiefer-Lab-1-Population-Database\obj\Debug\DSchiefer-Lab-1-Population-Database.pdb
